@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rodrick136
-- 👀 I’m interested in wep and software developemnt
+- 👀 I’m interested in web and software developemnt
 - 🌱 I’m currently learning LISP
 - 📫 You can reach out to me on www.136.studio
